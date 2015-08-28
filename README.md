@@ -1,6 +1,6 @@
 # SmartClock
 
-### A notification-responsive clock widget for iOS
+A notification-responsive clock widget for iOS.
 
 ## Installation
 
@@ -12,4 +12,4 @@ SmartClock was designed and tested on an iPhone 6 on iOS 8.4. The widget should 
 
 ## Thank you
 
-Thank you to the developers of Cataracs, SevenClock, and BotoClock for the inspiration. Google provided the starting place for the [battery icons](https://github.com/google/material-design-icons/).
+Thank you to the developers of Cataracs, SevenClock, and BotoClock for the inspiration. Google generously provided the starting place for the [battery icons](https://github.com/google/material-design-icons/).
