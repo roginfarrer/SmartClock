@@ -1,0 +1,49 @@
+@font-face{font-family:sanfran;src:url(../font/SanFranciscoDisplay-Ultralight.otf);}
+@font-face{font-family:sanfran2;src:url(../font/SanFranciscoDisplay-Light.otf);}
+
+* {
+margin: 0;
+padding: 0;
+}
+
+html,
+body {width:100%;}
+
+body {
+  text-align: center;
+	color: #FFF;
+}
+
+div.container {
+	display: inline-block;
+}
+
+#time {
+	font-size:100px;
+	text-align:center;
+	font-family: sanfran, Georgia, -apple-system-font;
+	margin-bottom:-12px;
+}
+
+#second{font-size:29px;position:absolute;top:18px;}
+
+#meridiem{font-size:21px;position:absolute;}
+
+#timedate {
+	text-align:center;
+	font-family: sanfran2, Georgia, -apple-system-font;
+	font-size:16px;
+}
+
+#date{
+	display:inline;
+	margin-right: 20px;
+}
+
+#BatteryImage {
+	position:relative;
+	top:3px;
+	right: 2px;
+	width: 20px;
+	height: 20px;
+}
